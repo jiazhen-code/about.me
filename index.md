@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently pursuing my Master's degree in Computer Science at the [Information School] (http://info.ruc.edu.cn/) at the Renmin University of China (RUC). I have been advised by Prof. [Xirong Li] (http://lixirong.net/) from 2021 to now. My journey in academia is set to continue as I have been accepted into the Ph.D. program at the [LONG Group](https://long-group.cse.ust.hk/), Hong Kong University of Science and Technology (HKUST), where I will be under the guidance of Professor [Long Chen](https://zjuchenlong.github.io/).
+I am currently pursuing my Master's degree in Computer Science at the [Information School](http://info.ruc.edu.cn/) at the Renmin University of China (RUC). I have been advised by Prof. [Xirong Li](http://lixirong.net/) from 2021 to now. My journey in academia is set to continue as I have been accepted into the Ph.D. program at the [LONG Group](https://long-group.cse.ust.hk/), Hong Kong University of Science and Technology (HKUST), where I will be under the guidance of Professor [Long Chen](https://zjuchenlong.github.io/).
 
 ## Research Interests
 
