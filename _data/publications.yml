@@ -6,17 +6,17 @@ main:
     conference: Proceedings of the IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Geometrized_Transformer_for_Self-Supervised_Homography_Estimation_ICCV_2023_paper.html
     code: https://github.com/ruc-aimc-lab/GeoFormer
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:T9Mqd54vePIJ:scholar.google.com/&output=citation&scisdr=ClHX1QwrEMHt5E9qDNo:AFWwaeYAAAAAZeFsFNqcZnho6lTPxM4nbHo7UYs&scisig=AFWwaeYAAAAAZeFsFEAv--aOUjS-R6OEVPWYld4&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/geoformere.jpg
+    bibtex: https://dblp.uni-trier.de/rec/conf/iccv/Liu023.html?view=bibtex
+    image: ./assets/img/geoformer.jpg
     notes: Published
 
   - title: Attention-aware resource allocation and QoE analysis for metaverse xURLLC services
     authors: Hongyang Du, <strong>Jiazhen Liu</strong>, Dusit Niyato, Jiawen Kang, Zehui Xiong, Junshan Zhang, Dong In Kim
-    journal_short: JSAC
-    journal: IEEE Journal on Selected Areas in Communications <strong>(JSAC)</strong>, 2023.
+    conference_short: JSAC
+    conference: IEEE Journal on Selected Areas in Communications <strong>(JSAC)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2208.05438
     code: https://github.com/HongyangDu/User-Object-Attention-Level
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:velqTquNr_sJ:scholar.google.com/&output=citation&scisdr=ClHX1QwrEMHt5E9rXNU:AFWwaeYAAAAAZeFtRNU09I-iQ4bURtyWGEH1_fI&scisig=AFWwaeYAAAAAZeFtRPMslaSzuoZaiFjs27Et8Lk&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    bibtex: https://dblp.uni-trier.de/rec/journals/jsac/DuLNKXZK23.html?view=bibtex
     notes: Published
     image: ./assets/img/jsac.png
 
@@ -26,6 +26,6 @@ main:
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.
     pdf: https://arxiv.org/pdf/2207.07932
     code: https://github.com/ruc-aimc-lab/SuperRetina
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:T6yQW3GwQr0J:scholar.google.com/&output=citation&scisdr=ClHX1QwrEMHt5E9r0HI:AFWwaeYAAAAAZeFtyHIUyk8q0gVHSHEP3WsCpWU&scisig=AFWwaeYAAAAAZeFtyPWzBIhKsRPmmm86WPyqAM0&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    bibtex: https://dblp.uni-trier.de/rec/conf/eccv/LiuLWXD22.html?view=bibtex
     image: ./assets/img/superretina.png
     notes: Published
