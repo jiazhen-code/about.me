@@ -17,5 +17,14 @@ I am currently pursuing my Master's degree in Computer Science at the [Informati
 - **[Oct. 2023]** I am thrilled to have the opportunity to attend the ICCV conference in Paris.
 - **[Aug. 2023]** Our paper about homography estimation is accepted to ICCV 2023.
 - **[Aug. 2022]** Our paper about retinal image matching is accepted to ECCV 2022.
+  
 {% include_relative _includes/publications.md %}
+
+## Awards & Honors
+
+- National Scholarship (Graduate Students)   **Sept. 2023** 
+- National Scholarship (Undergraduate Students) for three consecutive years.   **2018 - 2020** 
+
 {% include_relative _includes/services.md %}
+
+
