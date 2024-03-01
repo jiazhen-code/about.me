@@ -24,7 +24,7 @@ I am currently pursuing my Master's degree in Computer Science at the [Informati
 
 - 2023 TREC Video Retrieval Evaluation (TRECVID) AVS, top 3   **Nov. 2023**
 - National Scholarship (Graduate Students)   **Sept. 2023**
-- National Scholarship (Undergraduate Students) for three consecutive years.   **2018 - 2020** 
+- 3 National Scholarships (Undergraduate Students)   **2018 - 2020** 
 
 {% include_relative _includes/services.md %}
 
