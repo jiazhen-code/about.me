@@ -22,9 +22,9 @@ I am currently pursuing my Master's degree in Computer Science at the [Informati
 
 ## Awards & Honors
 
-- 2023 TREC Video Retrieval Evaluation (TRECVID) AVS, top 3   <p align="right">Nov. 2023</p>
-- National Scholarship (Graduate Students)   <p align="right">Sept. 2023</p>
-- 3 National Scholarships (Undergraduate Students)   <p align="right">2018 - 2020</p>
+- **[Nov. 2023]** 2023 TREC Video Retrieval Evaluation (TRECVID) AVS, top 3
+- **[Sept. 2023]** National Scholarship (Graduate Students)
+- **[2018 - 2020]** 3 National Scholarships (Undergraduate Students) 
 
 {% include_relative _includes/services.md %}
 
