@@ -7,7 +7,7 @@ main:
     pdf: https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Geometrized_Transformer_for_Self-Supervised_Homography_Estimation_ICCV_2023_paper.html
     code: https://github.com/ruc-aimc-lab/GeoFormer
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:T9Mqd54vePIJ:scholar.google.com/&output=citation&scisdr=ClHX1QwrEMHt5E9qDNo:AFWwaeYAAAAAZeFsFNqcZnho6lTPxM4nbHo7UYs&scisig=AFWwaeYAAAAAZeFsFEAv--aOUjS-R6OEVPWYld4&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/geoformere.png
+    image: ./assets/img/geoformere.jpg
     notes: Published
 
   - title: Attention-aware resource allocation and QoE analysis for metaverse xURLLC services
