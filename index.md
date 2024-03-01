@@ -4,20 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently pursuing my Master's degree in Computer Science at the [Information School] (http://info.ruc.edu.cn/) at the Renmin University of China (RUC). I have been advised by Prof. [Xirong Li] (http://lixirong.net/) from 2021 to now. My journey in academia is set to continue as I have been accepted into the Ph.D. program at the [LONG Group](https://long-group.cse.ust.hk/), Hong Kong University of Science and Technology (HKUST), where I will be under the guidance of Professor [Long Chen](https://zjuchenlong.github.io/).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** Image Matching, Video Captioning and Retrieval
+- **Multimodal:** Large Vision-Language Models, Hallucination
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
+- **[Nov. 2023]** Our team has secured a top-three position in Ad-hoc Video Search.
+- **[Oct. 2023]** I am thrilled to have the opportunity to attend the ICCV conference in Paris.
+- **[Aug. 2023]** Our paper about homography estimation is accepted to ICCV 2023.
+- **[Aug. 2022]** Our paper about retinal image matching is accepted to ECCV 2022.
 {% include_relative _includes/publications.md %}
-
 {% include_relative _includes/services.md %}
