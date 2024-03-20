@@ -1,4 +1,13 @@
 main:
+  - title: PhD: A Prompted Visual Hallucination Evaluation Dataset
+    authors: <strong>Jiazhen Liu</strong>, Yuhan Fu, Ruobing Xie, Runquan Xie, Xingwu Sun, Fengzong Lian, Zhanhui Kang, Xirong Li
+    conference_short: arxiv
+    conference: arxiv, 2024
+    pdf: https://arxiv.org/abs/2403.11116
+    code: https://github.com/jiazhen-code/IntrinsicHallu
+    bibtex: #
+    image: ./assets/img/hall.jpg
+    notes: In progress
 
   - title: Geometrized Transformer for Self-Supervised Homography Estimation
     authors: <strong>Jiazhen Liu</strong>, Xirong Li
