@@ -12,8 +12,8 @@ I am currently pursuing my Master's degree in Computer Science at the [Informati
 - **Multimodal:** Large Vision-Language Models, Hallucination
 
 ## News
-
-- **[Nov. 2023]** Our team has secured a top-three position in 2023 TREC Video Retrieval Evaluation (TRECVID) AVS.
+- **[Mar. 2023]** A new research about hallucination in Large Language Vision Models has been released! see [here](https://arxiv.org/abs/2403.11116). 
+- **[Nov. 2023]** Our team has secured a top-three position in the 2023 TREC Video Retrieval Evaluation (TRECVID) AVS.
 - **[Oct. 2023]** I am thrilled to have the opportunity to attend the ICCV conference in Paris.
 - **[Aug. 2023]** Our paper about homography estimation is accepted to ICCV 2023.
 - **[Aug. 2022]** Our paper about retinal image matching is accepted to ECCV 2022.
