@@ -6,7 +6,7 @@ main:
     pdf: https://arxiv.org/abs/2403.11116
     code: https://github.com/jiazhen-code/IntrinsicHallu
     bibtex: #
-    image: ./assets/img/hall.jpg
+    image: ./assets/img/hallu.jpg
     notes: In progress
 
   - title: Geometrized Transformer for Self-Supervised Homography Estimation
