@@ -5,7 +5,7 @@ main:
     conference: arxiv, 2024
     pdf: https://arxiv.org/abs/2403.11116
     code: https://github.com/jiazhen-code/IntrinsicHallu
-    bibtex: # 
+    bibtex: https://arxiv.org/abs/2403.11116
     image: ./assets/img/hallu.jpg
     notes: In progress
 
