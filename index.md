@@ -8,10 +8,11 @@ I am currently pursuing my Ph.D. at the [LONG Group](https://long-group.cse.ust.
 
 ## Research Interests
 
-- **Computer Vision:** Image Matching, Video Captioning and Retrieval
-- **Multimodal:** Large Vision-Language Models, Hallucination
+- **Computer Vision:** Image Matching
+- **Multimodal:** Multimodal Large Language Model, Mixture of Vision Experts, Efficient Training
 
 ## News
+- **[Feb. 2025]** Our paper about hallucinations in MLLMs is accepted to CVPR 2025.
 - **[Aug. 2024]** A new research about hallucination in MLLMs has been released! see [here](https://arxiv.org/abs/2403.11116). 
 - **[Nov. 2023]** Our team has secured a top-three position in the 2023 TREC Video Retrieval Evaluation (TRECVID) AVS.
 - **[Oct. 2023]** I am thrilled to have the opportunity to attend the ICCV conference in Paris.
