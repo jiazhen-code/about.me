@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently pursuing my Ph.D. at the [LONG Group](https://long-group.cse.ust.hk/), Hong Kong University of Science and Technology (HKUST), under the guidance of Prof. Long Chen. My research focuses on computer vision. I hold a Master’s degree from the Information School, Renmin University of China (RUC), where Prof. Xirong Li advised me. 
+I am currently pursuing a Ph.D. at the [LONG Group](https://long-group.cse.ust.hk/), Hong Kong University of Science and Technology (HKUST), advised by Prof. [Long Chen](https://zjuchenlong.github.io/). My research focuses on computer vision. I hold a Master’s degree from Renmin University of China (RUC), where Prof. (Xirong Li)[https://ruc-aimc-lab.github.io/aboutme/] advised me. 
 
 ## Research Interests
 
