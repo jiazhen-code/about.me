@@ -1,5 +1,5 @@
 main:
-  - title: "PhD: A Prompted Visual Hallucination Evaluation Dataset"
+  - title: "PhD: A ChatGPT-Prompted Visual hallucination Evaluation Dataset"
     authors: <strong>Jiazhen Liu</strong>, Yuhan Fu, Ruobing Xie, Runquan Xie, Xingwu Sun, Fengzong Lian, Zhanhui Kang, Xirong Li
     conference_short: CVPR Highlight
     conference: The IEEE / CVF Computer Vision and Pattern Recognition Conference  <strong>(CVPR)</strong>, 2025.
