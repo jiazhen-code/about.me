@@ -1,4 +1,14 @@
 main:
+  - title: "Empowering Small VLMs to Think with Dynamic Memorization and Exploration"
+    authors: <strong>Jiazhen Liu</strong>, Yuchuan Deng, Long Chen
+    conference_short: arXiv
+    conference: arXiv
+    pdf: https://arxiv.org/abs/2506.23061
+    code: https://github.com/HKUST-LongGroup/DyME
+    bibtex: https://github.com/HKUST-LongGroup/DyME
+    image: ./assets/img/dyme.jpg
+    notes: In progress
+
   - title: "PhD: A ChatGPT-Prompted Visual hallucination Evaluation Dataset"
     authors: <strong>Jiazhen Liu</strong>, Yuhan Fu, Ruobing Xie, Runquan Xie, Xingwu Sun, Fengzong Lian, Zhanhui Kang, Xirong Li
     conference_short: CVPR Highlight
