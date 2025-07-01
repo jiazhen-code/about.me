@@ -12,6 +12,7 @@ I am currently pursuing a Ph.D. at the [LONG Group](https://long-group.cse.ust.h
 - **Multimodal:** Multimodal Large Language Model, Mixture of Vision Experts, Efficient Training
 
 ## News
+- **[June 2025]** We released our work on effectively empowering small-scale VLMs with reliable thinking capabilities. see [here](https://arxiv.org/abs/2506.23061v1). 
 - **[April 2025]** Excited to attend ICLR 2025 in Singapore! Thanks to my advisor, Prof. Long, for the support. Learned a lot.
 - **[Feb. 2025]** Our paper about hallucinations in MLLMs is accepted to CVPR 2025 (Highlight).
 - **[Aug. 2024]** A new research about hallucination in MLLMs has been released! see [here](https://arxiv.org/abs/2403.11116). 
