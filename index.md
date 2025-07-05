@@ -9,10 +9,10 @@ I am currently pursuing a Ph.D. at the [LONG Group](https://long-group.cse.ust.h
 ## Research Interests
 
 - **Computer Vision:** Image Matching
-- **Multimodal:** Multimodal Large Language Model, Mixture of Vision Experts, Efficient Training
+- **Multimodal:** Multimodal Large Language Model, Mixture of Vision Experts, Efficient Training, Reasoning
 
 ## News
-- **[July 2025]** Excited to join Tencent (**Qingyun** Program) for a research internship to conduct my research on MLLMs. See you in Beijing!
+- **[July 2025]** Excited to join Tencent (**Qingyun** Program) for an internship to conduct my research on MLLMs. See you in Beijing!
 - **[June 2025]** We released our work on effectively empowering small-scale VLMs with reliable thinking capabilities. see [here](https://arxiv.org/abs/2506.23061). 
 - **[April 2025]** Excited to attend ICLR 2025 in Singapore! Thanks to my advisor, Prof. Long, for the support. Learned a lot.
 - **[Feb. 2025]** Our paper about hallucinations in MLLMs is accepted to CVPR 2025 (Highlight).
