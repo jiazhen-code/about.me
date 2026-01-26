@@ -1,4 +1,14 @@
 main:
+  - title: "Better, Stronger, Faster: Tackling the Trilemma in MLLM-based Segmentation with Simultaneous Textual Mask Prediction"
+    authors: <strong>Jiazhen Liu</strong>, Mingkuan Feng, Long Chen
+    conference_short: arXiV
+    conference: arXiV
+    pdf: https://arxiv.org/abs/2512.00395
+    code: https://github.com/HKUST-LongGroup/STAMP
+    bibtex: https://github.com/HKUST-LongGroup/STAMP
+    image: ./assets/img/STAMP.png
+    notes: In progress
+
   - title: "Empowering Small VLMs to Think with Dynamic Memorization and Exploration"
     authors: <strong>Jiazhen Liu</strong>, Yuchuan Deng, Long Chen
     conference_short: ICLR
