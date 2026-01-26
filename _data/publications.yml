@@ -1,13 +1,13 @@
 main:
   - title: "Empowering Small VLMs to Think with Dynamic Memorization and Exploration"
     authors: <strong>Jiazhen Liu</strong>, Yuchuan Deng, Long Chen
-    conference_short: arXiv
-    conference: arXiv
+    conference_short: ICLR
+    conference: International Conference on Learning Representations
     pdf: https://arxiv.org/abs/2506.23061
     code: https://github.com/HKUST-LongGroup/DyME
     bibtex: https://github.com/HKUST-LongGroup/DyME
     image: ./assets/img/dyme.jpg
-    notes: In progress
+    notes: Accepted
 
   - title: "PhD: A ChatGPT-Prompted Visual hallucination Evaluation Dataset"
     authors: <strong>Jiazhen Liu</strong>, Yuhan Fu, Ruobing Xie, Runquan Xie, Xingwu Sun, Fengzong Lian, Zhanhui Kang, Xirong Li
@@ -17,7 +17,7 @@ main:
     code: https://github.com/jiazhen-code/PhD
     bibtex: https://arxiv.org/abs/2403.11116
     image: ./assets/img/hallu.jpg
-    notes: Accepted (Highlight)
+    notes: Published (Highlight)
 
   - title: Geometrized Transformer for Self-Supervised Homography Estimation
     authors: <strong>Jiazhen Liu</strong>, Xirong Li
