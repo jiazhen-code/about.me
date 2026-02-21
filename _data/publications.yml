@@ -1,8 +1,8 @@
 main:
   - title: "Better, Stronger, Faster: Tackling the Trilemma in MLLM-based Segmentation with Simultaneous Textual Mask Prediction"
     authors: <strong>Jiazhen Liu</strong>, Mingkuan Feng, Long Chen
-    conference_short: arXiV
-    conference: arXiV
+    conference_short: CVPR
+    conference: The IEEE / CVF Computer Vision and Pattern Recognition Conference  <strong>(CVPR)</strong>, 2026.
     pdf: https://arxiv.org/abs/2512.00395
     code: https://github.com/HKUST-LongGroup/STAMP
     bibtex: https://github.com/HKUST-LongGroup/STAMP
