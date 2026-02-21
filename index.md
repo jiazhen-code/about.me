@@ -9,7 +9,7 @@ I am currently pursuing a Ph.D. at the [LONG Group](https://long-group.cse.ust.h
 ## Research Interests
 
 - **Computer Vision:** Image Matching
-- **Multimodal:** Multimodal Large Language Model, Mixture of Vision Experts, Efficient Training, Reasoning
+- **Multimodal:** Multimodal Large Language Model (MLLM), Referring Segmentation, Reasoning
 
 ## News
 - **[Feb 2026]** One paper was accepted by CVPR 2026! [here](https://arxiv.org/abs/2512.00395)
