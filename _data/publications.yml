@@ -7,7 +7,7 @@ main:
     code: https://github.com/HKUST-LongGroup/STAMP
     bibtex: https://github.com/HKUST-LongGroup/STAMP
     image: ./assets/img/STAMP.png
-    notes: In progress
+    notes: Accepted
 
   - title: "Empowering Small VLMs to Think with Dynamic Memorization and Exploration"
     authors: <strong>Jiazhen Liu</strong>, Yuchuan Deng, Long Chen
