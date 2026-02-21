@@ -12,6 +12,7 @@ I am currently pursuing a Ph.D. at the [LONG Group](https://long-group.cse.ust.h
 - **Multimodal:** Multimodal Large Language Model, Mixture of Vision Experts, Efficient Training, Reasoning
 
 ## News
+- **[Feb 2026]** One paper was accepted by CVPR 2026! [here](https://arxiv.org/abs/2512.00395)
 - **[Jan 2026]** One paper was accepted by ICLR 2026! [here](https://arxiv.org/abs/2506.23061)
 - **[July 2025]** Excited to join Tencent (**Qingyun** Program) for an internship to conduct my research on MLLMs. See you in Beijing!
 - **[June 2025]** We released our work on effectively empowering small-scale VLMs with reliable thinking capabilities. see [here](https://arxiv.org/abs/2506.23061). 
