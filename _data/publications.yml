@@ -39,15 +39,15 @@ main:
     image: ./assets/img/geoformer.jpg
     notes: Published
 
-  - title: Attention-aware resource allocation and QoE analysis for metaverse xURLLC services
-    authors: Hongyang Du, <strong>Jiazhen Liu</strong>, Dusit Niyato, Jiawen Kang, Zehui Xiong, Junshan Zhang, Dong In Kim
-    conference_short: JSAC
-    conference: IEEE Journal on Selected Areas in Communications <strong>(JSAC)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2208.05438
-    code: https://github.com/HongyangDu/User-Object-Attention-Level
-    bibtex: https://dblp.uni-trier.de/rec/journals/jsac/DuLNKXZK23.html?view=bibtex
-    notes: Published
-    image: ./assets/img/jsac.png
+  # - title: Attention-aware resource allocation and QoE analysis for metaverse xURLLC services
+  #   authors: Hongyang Du, <strong>Jiazhen Liu</strong>, Dusit Niyato, Jiawen Kang, Zehui Xiong, Junshan Zhang, Dong In Kim
+  #   conference_short: JSAC
+  #   conference: IEEE Journal on Selected Areas in Communications <strong>(JSAC)</strong>, 2023.
+  #   pdf: https://arxiv.org/pdf/2208.05438
+  #   code: https://github.com/HongyangDu/User-Object-Attention-Level
+  #   bibtex: https://dblp.uni-trier.de/rec/journals/jsac/DuLNKXZK23.html?view=bibtex
+  #   notes: Published
+  #   image: ./assets/img/jsac.png
 
   - title: Semi-supervised Keypoint Detector and Descriptor for Retinal Image Matching
     authors: <strong>Jiazhen Liu</strong>, Xirong Li, Qijie Wei, Jie Xu, Dayong Ding
