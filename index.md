@@ -12,6 +12,7 @@ I am currently pursuing a Ph.D. at the [LONG Group](https://long-group.cse.ust.h
 - **Multimodal:** Multimodal Large Language Model (MLLM), Referring Segmentation, Reasoning
 
 ## News
+- **[Oct 2026]** One paper was accepted by IJCV 2026! [here](https://github.com/jiazhen-code/LENS)
 - **[Feb 2026]** One paper was accepted by CVPR 2026! [here](https://arxiv.org/abs/2512.00395)
 - **[Jan 2026]** One paper was accepted by ICLR 2026! [here](https://arxiv.org/abs/2506.23061)
 - **[June 2025]** We released our work on effectively empowering small-scale VLMs with reliable thinking capabilities. see [here](https://arxiv.org/abs/2506.23061). 
