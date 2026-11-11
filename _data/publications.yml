@@ -1,4 +1,15 @@
 main:
+  - title: "Robust Reasoning Segmentation for Open-World MLLMs without Catastrophic Forgetting"
+    authors: <strong>Jiazhen Liu</strong>, Long Chen
+    conference_short: IJCV
+    conference: International Journal of Computer Vision <strong>(IJCV)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2510.16785
+    code: https://github.com/HKUST-LongGroup/LENS
+    bibtex: https://github.com/HKUST-LongGroup/LENS
+    image: ./assets/img/LENS.png
+    notes: Published
+
+
   - title: "Better, Stronger, Faster: Tackling the Trilemma in MLLM-based Segmentation with Simultaneous Textual Mask Prediction"
     authors: <strong>Jiazhen Liu</strong>, Mingkuan Feng, Long Chen
     conference_short: CVPR
@@ -7,7 +18,7 @@ main:
     code: https://github.com/HKUST-LongGroup/STAMP
     bibtex: https://github.com/HKUST-LongGroup/STAMP
     image: ./assets/img/STAMP.png
-    notes: Accepted
+    notes: Published
 
   - title: "Empowering Small VLMs to Think with Dynamic Memorization and Exploration"
     authors: <strong>Jiazhen Liu</strong>, Yuchuan Deng, Long Chen
@@ -17,7 +28,7 @@ main:
     code: https://github.com/HKUST-LongGroup/DyME
     bibtex: https://github.com/HKUST-LongGroup/DyME
     image: ./assets/img/dyme.jpg
-    notes: Accepted
+    notes: Published
 
   - title: "PhD: A ChatGPT-Prompted Visual hallucination Evaluation Dataset"
     authors: <strong>Jiazhen Liu</strong>, Yuhan Fu, Ruobing Xie, Runquan Xie, Xingwu Sun, Fengzong Lian, Zhanhui Kang, Xirong Li
